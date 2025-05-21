@@ -4,5 +4,8 @@ body{
 
 footer {
     background-color: lightcoral;
-    color: rgb(2, 4, 6);
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
